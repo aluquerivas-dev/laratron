@@ -1,6 +1,6 @@
-# LARATRON
+# LARATRON for Windows
 
-Laravel's integration with electron js through local PHP server.
+Laravel's integration with electron js through local PHP server on windows 7/8/10.
 
 ## Quick start & Quick run
 
