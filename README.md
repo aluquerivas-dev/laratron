@@ -7,7 +7,7 @@ Laravel's integration with electron js through local PHP server.
 Use the package manager [npm](https://nodejs.org) to install LARATRON.
 
 ```bash
-$ git clone https://github.com/aluquerivas-dev/laratron
+$ git clone https://github.com/aluquerivas-dev/laratron.git
 $ cd laratron
 $ npm install
 $ npm start
